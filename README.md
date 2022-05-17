@@ -4,8 +4,6 @@
 **nishinonanasezz/nishinonanasezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<img src="https://count.getloli.com/get/@:name" alt=":name" />
-![:name](https://count.getloli.com/get/@:name)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr/>
+<img src="https://count.getloli.com/get/@:name" alt=":name" />div
 
-<img src="https://count.getloli.com/get/@:name" alt=":name" />
-![:name](https://count.getloli.com/get/@:name)
