@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr/>
 ![:nishinonanasezz](https://count.getloli.com/get/@:nishinonanasezz?theme=asoul)
 
