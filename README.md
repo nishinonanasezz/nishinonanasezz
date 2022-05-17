@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr/>
-<img src="https://count.getloli.com/get/@:name" alt=":name" />div
+![:nishinonanasezz](https://count.getloli.com/get/@:nishinonanasezz?theme=asoul)
 
