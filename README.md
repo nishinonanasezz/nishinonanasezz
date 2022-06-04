@@ -1,5 +1,4 @@
 ### Hello Wolrd! This is Tiramisu 👋
-### Hello World! This is Tiramisu 👋
 
 #### 👨🏻‍💻 &nbsp;About Me 
 
